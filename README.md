@@ -1,3 +1,3 @@
 # 385Projects
 
-Web Page: [https://DylanT80.github.io/385projects/](https://DylanT80.github.io/385projects/)
+Web Page: [https://DylanT80.github.io/385Projects/](https://DylanT80.github.io/385Projects/)
